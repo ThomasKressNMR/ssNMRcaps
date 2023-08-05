@@ -1,5 +1,5 @@
 # ssNMRcaps
-3d-printed caps for Bruker rotors, from 1.3 mm to 4 mm.
+3d-printed caps for Bruker rotors, from 1.3 mm to 4 mm, made in Fusion 360
 
 Inspired by
 Amerein, C., Banerjee, U., Pang, Z., Lu, W., Pimenta, V., Tan, K.O., 2023. In-house fabrication of 1.3 to 7 mm MAS drive caps using desktop 3D printers. Journal of Magnetic Resonance 348, 107391. https://doi.org/10.1016/j.jmr.2023.107391
